@@ -7,4 +7,5 @@ package my;
 message Test {
   optional int64 val = 1;
   optional other.Test otherVal = 2;
+  optional int64 newVal = 3;
 }

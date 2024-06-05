@@ -1,6 +1,6 @@
 syntax = "proto2";
 
-package other;
+package other;ver
 option go_package = "github.com/fhermeni/proto-cache/other";
 
 message Test {
