@@ -1,8 +1,0 @@
-syntax = "proto2";
-
-package other;
-option go_package = "github.com/fhermeni/proto-cache/v1/other";
-
-message Test {
-  optional int64 val = 1;
-}
