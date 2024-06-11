@@ -10,4 +10,5 @@ message Test {
   optional int64 newVal = 3;
   optional int64 last = 4;
   optional int64 o = 5;
+  optional int64 foo = 6;
 }
